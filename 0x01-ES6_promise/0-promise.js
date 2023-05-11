@@ -1,4 +1,3 @@
-/* estlint-disable */
-export default function getResponseFrom API (){
-	return new Promise (() => {});
+export default function getResponseFromAPI() {
+  return new Promise(() => {});
 }
